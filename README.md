@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a software developer in training at 42 School Lisbon, where I build projects from scratch in a peer-to-peer, project-based environment<br><br>My focus is on systems programming: I work primarily in C and Bash, diving deep into Unix internals, process management, memory allocation, and concurrency. <br><br>I'm passionate about understanding how things work at a low level — from how a shell parses a command to how the kernel schedules threads. I'm comfortable on Linux (Debian, Fedora, Arch) and live in the terminal.<br><br>Currently looking for opportunities in systems/backend development, open-source contributions, or internships where I can keep growing as an engineer.</h2>
+<h5 align="left">I'm a software developer in training at 42 School Lisbon, where I build projects from scratch in a peer-to-peer, project-based environment<br><br>My focus is on systems programming: I work primarily in C and Bash, diving deep into Unix internals, process management, memory allocation, and concurrency. <br><br>I'm passionate about understanding how things work at a low level — from how a shell parses a command to how the kernel schedules threads. I'm comfortable on Linux (Debian, Fedora, Arch) and live in the terminal.<br><br>Currently looking for opportunities in systems/backend development, open-source contributions, or internships where I can keep growing as an engineer.</h5>
 
 ###
 
