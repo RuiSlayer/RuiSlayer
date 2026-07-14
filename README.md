@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rui and I'm a Developer, from Lisbon</p>
+<h3 align="left">My name is Rui and I'm a Developer, from Lisbon</h3>
 
 ###
 
