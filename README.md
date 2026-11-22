@@ -41,9 +41,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/archlinux/archlinux-original.svg" height="40" alt="arch logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
 </div>
 
 ###
