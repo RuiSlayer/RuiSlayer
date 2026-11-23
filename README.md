@@ -74,10 +74,10 @@ An end-to-end online ordering platform with a documented architecture.
 
 ## Tech
 
-**Languages:** C · Bash · Java · Python · Rust (learning)
-**Systems:** POSIX APIs · processes & signals · file descriptors & I/O · memory management · concurrency
-**Web:** Django · SQLite · HTML/CSS · Bootstrap · jQuery
-**Tooling:** Linux (Debian, Fedora, Arch) · Git · Make · Gradle · GDB · Valgrind · terminal-first workflow
+- **Languages:** C · Bash · Java · Python · Rust (learning)
+- **Systems:** POSIX APIs · processes & signals · file descriptors & I/O · memory management · concurrency
+- **Web:** Django · SQLite · HTML/CSS · Bootstrap · jQuery
+- **Tooling:** Linux (Debian, Fedora, Arch) · Git · Make · Gradle · GDB · Valgrind · terminal-first workflow
 
 ## Off the clock
 
