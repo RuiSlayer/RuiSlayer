@@ -1,22 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Rui 👋
 
-###
+**software developer in Lisbon.** I like knowing what happens under the hood: how a shell turns text into running processes, how file descriptors move data between them, where memory goes and when it comes back.
 
-<h3 align="left">My name is Rui and I'm a Developer, from Lisbon</h3>
+I'm training at **42 Lisbon**, a peer-to-peer school with no teachers and no lectures, and studying at **ISTA – Iscte**. At 42, every project starts from a blank file and a spec, and it only counts once other engineers have reviewed and defended it line by line. That's how I learned to work out problems on my own, read the man pages, and explain my design decisions.
 
-###
+My core is **C and Bash on Linux**, but I've also built and delivered complete applications in **Java** and **Python/Django**. I'm comfortable from the syscall level up to the UI.
 
-<h4 align="left">I'm a software developer in training at 42 School Lisbon, where I build projects from scratch in a peer-to-peer, project-based environment<br><br>My focus is on systems programming: I work primarily in C and Bash, diving deep into Unix internals, process management, memory allocation, and concurrency. <br><br>I'm passionate about understanding how things work at a low level — from how a shell parses a command to how the kernel schedules threads. I'm comfortable on Linux (Debian, Fedora, Arch) and live in the terminal.<br><br>Currently looking for opportunities in systems/backend development, open-source contributions, or internships where I can keep growing as an engineer.</h4>
-
-###
-
-<p align="left">- 🎓 Student at 42 School (Lisbon)<br>- 🛠️ Building things in C, Bash, and exploring Rust<br>- 🐧 Linux enthusiast (Debian / Fedora / Arch)<br>- 💬 Ask me about: shell implementation, concurrency, memory management</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -51,4 +41,48 @@
   <img width="12" />
 </div>
 
-###
+
+## 🚀 Featured projects
+
+### 🐚 [miniShell](https://github.com/RuiSlayer/miniShell): a UNIX shell in C, modeled after Bash
+A working command interpreter built from scratch on POSIX APIs.
+- **Process management:** `fork`, `execve`, `waitpid`, exit-status propagation
+- **File descriptors and I/O:** pipes, input/output redirection, stream handling between processes
+- **Signal handling:** interactive behavior for `Ctrl-C`, `Ctrl-\` and `Ctrl-D`, like Bash
+- **Memory management:** manual allocation across the whole parse → execute lifecycle, without leaks
+
+`C` `POSIX` `Unix processes` `Signals`
+
+---
+
+### 🧩 [Sokoban](https://github.com/RuiSlayer/Sokoban): a Java puzzle game remake
+A desktop game with its own 2D rendering, built to practice solid object-oriented design.
+- **OOP:** inheritance, polymorphism, encapsulation and abstraction across the game's object model
+- **Design patterns:** Singleton, Observer, event-driven architecture
+- **Persistence:** level-file parsing and per-level leaderboards saved to disk
+
+`Java 17` `Swing` `Gradle` `OOP` `Design patterns`
+
+---
+
+### 🍕 [Pizzaria Marques](https://github.com/RuiSlayer/pizzariaMarques): a full-stack e-commerce application
+An end-to-end online ordering platform with a documented architecture.
+- **Django MVC** backend with server-rendered templates (DTL)
+- **Architecture documented** with high-level design diagrams in Mermaid
+- **Maps integration** with OpenStreetMap for delivery locations
+- Responsive frontend built with Bootstrap 4 and jQuery
+
+`Python` `Django` `SQLite` `Bootstrap` `OpenStreetMap`
+
+---
+
+## ⚙️ Tech
+**Languages:** C · Bash · Java · Python · Rust (learning)
+**Systems:** POSIX APIs · processes & signals · file descriptors & I/O · memory management · concurrency
+**Web:** Django · SQLite · HTML/CSS · Bootstrap · jQuery
+**Tooling:** Linux (Debian, Fedora, Arch) · Git · Make · Gradle · GDB · Valgrind · terminal-first workflow
+
+---
+
+## 🖥️ Off the clock
+Proud owner of a homelab: an **HP EliteDesk 800 G3 Mini running Proxmox**, where I break, fix and self-host things just to see how they work. Ask me about it, I *will* talk your ear off.
