@@ -6,8 +6,6 @@ I'm training at **42 Lisbon**, a peer-to-peer school with no teachers and no lec
 
 My core is **C and Bash on Linux**, but I've also built and delivered complete applications in **Java** and **Python/Django**. I'm comfortable from the syscall level up to the UI.
 
----
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -42,7 +40,7 @@ My core is **C and Bash on Linux**, but I've also built and delivered complete a
 </div>
 
 
-## 🚀 Featured projects
+## Featured projects
 
 ### 🐚 [miniShell](https://github.com/RuiSlayer/miniShell): a UNIX shell in C, modeled after Bash
 A working command interpreter built from scratch on POSIX APIs.
@@ -74,15 +72,13 @@ An end-to-end online ordering platform with a documented architecture.
 
 `Python` `Django` `SQLite` `Bootstrap` `OpenStreetMap`
 
----
+## Tech
 
-## ⚙️ Tech
 **Languages:** C · Bash · Java · Python · Rust (learning)
 **Systems:** POSIX APIs · processes & signals · file descriptors & I/O · memory management · concurrency
 **Web:** Django · SQLite · HTML/CSS · Bootstrap · jQuery
 **Tooling:** Linux (Debian, Fedora, Arch) · Git · Make · Gradle · GDB · Valgrind · terminal-first workflow
 
----
+## Off the clock
 
-## 🖥️ Off the clock
 Proud owner of a homelab: an **HP EliteDesk 800 G3 Mini running Proxmox**, where I break, fix and self-host things just to see how they work. Ask me about it, I *will* talk your ear off.
