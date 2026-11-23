@@ -81,4 +81,4 @@ An end-to-end online ordering platform with a documented architecture.
 
 ## Off the clock
 
-Proud owner of a homelab: an **HP EliteDesk 800 G3 Mini running Proxmox**, where I break, fix and self-host things just to see how they work. Ask me about it, I *will* talk your ear off.
+Proud owner of a homelab: an **Mini pc running Proxmox**, where I break, fix and self-host things just to see how they work. Ask me about it, I *will* talk your ear off.
